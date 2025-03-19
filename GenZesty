@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GenZesty</title>
+    <style>
+        body {
+            background-color: orange;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 56px;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 33px;
+            margin-top: 30px;
+        }
+        p {
+            font-size: 20px;
+            margin: 20px 0;
+        }
+        ul {
+            list-style-type: disc;
+            text-align: left;
+            display: inline-block;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>GenZesty</h1>
+    <p>We are a platform where adolescents can earn money in different ways like AI dropshipping, using your skills like video editing, graphic designing, etc.</p>
+    <h2>Terms and Conditions</h2>
+    <ul>
+        <li>Should be at least 12 years old.</li>
+        <li>You should have a bank account or FamPay.</li>
+        <li>You have to pay a 5% fee of your income earned from different ways.</li>
+    </ul>
+</body>
+</html>
